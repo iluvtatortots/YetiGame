@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CD2350ED-85DD-4837-38EC-DF4CBB1621B7}") = "UnityGlitchTutorial", "Assembly-CSharp.csproj", "{E1721F00-1532-B50C-07E4-C2E3ED9F775E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1721F00-1532-B50C-07E4-C2E3ED9F775E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1721F00-1532-B50C-07E4-C2E3ED9F775E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1721F00-1532-B50C-07E4-C2E3ED9F775E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1721F00-1532-B50C-07E4-C2E3ED9F775E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
